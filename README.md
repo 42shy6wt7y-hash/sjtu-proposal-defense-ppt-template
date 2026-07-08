@@ -4,7 +4,7 @@
 
 ## 下载
 
-[下载 PPT 模板](./上海交通大学_开题答辩PPT模板.pptx)
+[下载 PPT 模板](https://github.com/42shy6wt7y-hash/sjtu-proposal-defense-ppt-template/releases/download/v1.0.0/sjtu-proposal-defense-ppt-template.pptx)
 
 ## 内容结构
 
