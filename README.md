@@ -5,7 +5,7 @@
 ## 下载
 
 - [通用红色版](https://github.com/42shy6wt7y-hash/sjtu-proposal-defense-ppt-template/releases/download/v1.1.0/sjtu-proposal-defense-ppt-template.pptx)
-- [深蓝苹果风版](https://github.com/42shy6wt7y-hash/sjtu-proposal-defense-ppt-template/releases/download/v1.1.0/sjtu-proposal-defense-ppt-template-apple-blue.pptx)
+- [深蓝版](https://github.com/42shy6wt7y-hash/sjtu-proposal-defense-ppt-template/releases/download/v1.1.0/sjtu-proposal-defense-ppt-template-deep-blue.pptx)
 
 ## 内容结构
 
@@ -36,10 +36,10 @@
 
 ```bash
 python generate_sjtu_proposal_template.py
-python generate_sjtu_proposal_template_apple_blue.py
+python generate_sjtu_proposal_template_deep_blue.py
 ```
 
 生成文件为：
 
 - `上海交通大学_开题答辩PPT模板.pptx`
-- `上海交通大学_开题答辩PPT模板_深蓝苹果风.pptx`
+- `上海交通大学_开题答辩PPT模板_深蓝版.pptx`
